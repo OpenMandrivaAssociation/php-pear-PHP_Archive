@@ -7,7 +7,7 @@
 
 Summary:	%{_pearname} - create and use PHP Archive files
 Name:		php-pear-%{_pearname}
-Version:	0.7.0
+Version:	0.10.0
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
