@@ -7,11 +7,11 @@
 
 Summary:	%{_pearname} - create and use PHP Archive files
 Name:		php-pear-%{_pearname}
-Version:	0.11.1
-Release:	%mkrel 3
+Version:	0.11.4
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/PHP_Archive/
 Requires(post): php-pear
 Requires(preun): php-pear
