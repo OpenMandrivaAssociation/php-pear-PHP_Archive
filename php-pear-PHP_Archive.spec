@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.11.4
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	Create and use PHP Archive files
 License:	PHP License
 Group:		Development/PHP
